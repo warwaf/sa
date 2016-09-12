@@ -25,32 +25,30 @@
 
 ### class
 
-* sa-tabs            默认为水平的
+* sa-tabs                       默认为水平的
 
-* sa-tabs-list      tabs卡页的导航
+* sa-tabs-list                 tabs卡页的导航
 
-* sa-tabs-nav
-                           tabs卡页
+* sa-tabs-nav                tabs卡页
 
-* sa-tabs-content
-                            tabs卡页所有的panel都在其中
+* sa-tabs-content          tabs卡页所有的panel都在其中
 
 * sa-tabs-panel
 
-* sa-tabs-top tabs卡页 导航在上
+* sa-tabs-top                 tabs卡页 导航在上
 
-* sa-tabs-right tabs卡页导航在右
+* sa-tabs-right               tabs卡页导航在右
 
-* sa-tabs-bottom tabs卡页导航在底
+* sa-tabs-bottom           tabs卡页导航在底
 
-* sa-tabs-left tabs卡页导航在左
+* sa-tabs-left                 tabs卡页导航在左
 
-* sa-tabs-info tabs卡页的主题
+* sa-tabs-info                tabs卡页的主题
 
 
-* sa-tabs-warning tabs卡页的主题
+* sa-tabs-warning          tabs卡页的主题
 
-* sa-tabs-danger tabs卡页的主题
+* sa-tabs-danger           tabs卡页的主题
 
 
 ### attribute
