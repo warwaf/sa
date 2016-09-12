@@ -11,7 +11,7 @@
            tab2
        </div>
    </div>
-   <div class="sa-tabs-panels">
+   <div class="sa-tabs-content">
         <div class="sa-tabs-panel" sa-tag="1">
              content1
         </div>
@@ -73,6 +73,7 @@
 * sa-tabs-warning tabs卡页的主题
 
 * sa-tabs-danger tabs卡页的主题
+
 
 ### attribute
 
