@@ -25,37 +25,15 @@
 
 ### class
 
-* sa-tabs
+* sa-tabs            默认为水平的
 
-```
-
- 默认为水平的
-
-```
-
-* sa-tabs-list
-
-```
-
- tab卡页的导航
-
-```
+* sa-tabs-list      tabs卡页的导航
 
 * sa-tabs-nav
-
-```
-
- tab卡页
-
-```
+                           tabs卡页
 
 * sa-tabs-content
-
-```
-
- tab卡页所有的panel都在其中
-
-```
+                            tabs卡页所有的panel都在其中
 
 * sa-tabs-panel
 
