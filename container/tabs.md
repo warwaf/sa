@@ -54,11 +54,7 @@
 ### attribute
 
 * sa-tag
-
-  ```
-
   标记 header 下的tags 和content 下的tags一一对应
 
-  ```
 
 
