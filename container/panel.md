@@ -8,8 +8,9 @@ Panel
      <div class="sa-panel-body">  
          body
      </div>  
-  <div class="sa-panel-footer">   
- </div>
+     <div class="sa-panel-footer">   
+         footer
+     </div>
 </div>
 ```
 
